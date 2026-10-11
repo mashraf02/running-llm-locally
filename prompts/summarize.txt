@@ -1,0 +1,8 @@
+Summarize the passage below in exactly three bullet points. 
+Each bullet must be one sentence of no more than 25 words. 
+Do not add any information that is not in the passage. 
+  
+Passage: 
+""" 
+{input} 
+"""

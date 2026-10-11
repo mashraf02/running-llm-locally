@@ -1,0 +1,5 @@
+task,calls,average_time_seconds,fastest_seconds,slowest_seconds,average_word_count
+capabilities,1,64.41,64.41,64.41,78
+email,1,72.42,72.42,72.42,109
+sentiment,1,14.65,14.65,14.65,39
+summarize,6,63.67,54.19,81.72,48.67

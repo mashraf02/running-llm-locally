@@ -1,0 +1,11 @@
+Classify the sentiment of the customer review below. 
+Choose exactly one label: Positive, Negative, or Mixed. 
+  
+Use exactly this format: 
+Label: <label> 
+Explanation: <two sentences citing specific points from the review> 
+  
+Review: 
+""" 
+{input} 
+""" 

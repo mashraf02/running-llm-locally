@@ -1,0 +1,6 @@
+  
+Use exactly this format: 
+Capabilities: - (3 to 5 bullet points) 
+Limitations: - (3 to 5 bullet points) 
+  
+Keep the whole answer under 150 words. 
